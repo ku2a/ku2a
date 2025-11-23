@@ -15,7 +15,6 @@
 - 🎓 Currently pursuing my degree in **Data Science & Artificial Intelligence** at **Universidad Politécnica de Madrid (UPM)**.
 - 🔭 I’m currently working on projects related to **Machine Learning** and **Exploratory Data Analysis (EDA)**.
 - 🌱 I’m continuously learning about **Neural Networks**, **Computer Vision** and **LLMs**.
-- 👯 I’m open to collaborating on **Open Source** data-driven projects.
 - 💬 Ask me about **Python, SQL, or Applied Mathematics**.
 
 ---
