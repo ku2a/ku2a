@@ -49,14 +49,9 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/pablo-suarez-238211238/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  
-  &nbsp; &nbsp;
-
-  <a href="mailto:pablo.suarez@alumnos.upm.es">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin] &nbsp; [![My Skills](https://skillicons.dev/icons?i=gmail)][mail]
 
 </div>
+
+[mail]: mailto:pablo.suarez@alumnos.upm.es
+[linkedin]: https://www.linkedin.com/in/pablo-suarez-238211238/
