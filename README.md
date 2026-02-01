@@ -15,7 +15,6 @@
 - 🎓 Currently pursuing my degree in **Data Science & Artificial Intelligence** at **Universidad Politécnica de Madrid (UPM)**.
 - 🔭 I’m currently working on projects related to **Machine Learning** and **Exploratory Data Analysis (EDA)**.
 - 🌱 I’m continuously learning about **Neural Networks**, **Computer Vision** and **LLMs**.
-- 💬 Ask me about **Python, SQL, or Applied Mathematics**.
 
 ---
 
@@ -48,9 +47,8 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin] &nbsp; [![My Skills](https://skillicons.dev/icons?i=gmail)][mail]
+<a href="https://www.linkedin.com/in/pablo-suarez-238211238/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>&nbsp;
+<a href="mailto:pablo.suarez@alumnos.upm.es"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/></a>&nbsp;
+<a href="https://leetcode.com/kura78"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40" width="40" alt="leetcode"/></a>
 
 </div>
-
-[mail]: mailto:pablo.suarez@alumnos.upm.es
-[linkedin]: https://www.linkedin.com/in/pablo-suarez-238211238/
