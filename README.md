@@ -20,11 +20,22 @@
 
 ### 🛠️ Tech Stack & Tools
 
+
 <div align="center">
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,aws,mysql,postgres,tensorflow,pytorch,sklearn,git,docker,linux,opencv,vscode&perline=7" />
-  </a>
+
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 
 </div>
 
