@@ -41,22 +41,9 @@
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" /></a>
 </div>
 
----
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ku2a&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ku2a&layout=compact&theme=radical&langs_count=8&exclude_repo=ku2a" alt="Top Languages"/>
-</p>
-
-</div>
-
----
-
-### 📫 Connect with me
+### 📫 More about me
 
 <div align="center">
 
