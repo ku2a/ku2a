@@ -37,7 +37,6 @@
 <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" /></a>
 </div>
 
